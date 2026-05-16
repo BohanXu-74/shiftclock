@@ -1,4 +1,4 @@
-# Seven Segment Clock
+# ShiftClock
 
 ![Clock](images/1000004734.jpg)
 
